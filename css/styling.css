@@ -1,3 +1,21 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
     background-color: brown;
+    text-align: center;
+}
+
+.image {
+    display: block;
+    width: 60px;
+    margin: auto;
+}
+
+.imageContainer {
+    width: 100%;
+  
+    
 }
